@@ -1,0 +1,15 @@
+package ch06;
+
+public class VariableTest {
+
+	public static void main(String[] args) {
+		
+		// byte범위 -128 ~ 127
+		byte bNum = 127;
+		System.out.println(bNum);
+				
+		// int의 범위를 벗어
+		int num = 12345678900;
+	}
+
+}
