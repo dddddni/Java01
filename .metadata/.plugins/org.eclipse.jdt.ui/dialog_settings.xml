@@ -42,6 +42,8 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElementsMatchStrategy" value="1"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
 		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
@@ -65,6 +67,16 @@
 		<item key="DIALOG_Y_ORIGIN" value="13"/>
 		<item key="DIALOG_WIDTH" value="557"/>
 		<item key="DIALOG_HEIGHT" value="636"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item key="showtypes" value="true"/>
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item key="DIALOG_X_ORIGIN" value="423"/>
+		<item key="DIALOG_Y_ORIGIN" value="133"/>
+		<item key="DIALOG_WIDTH" value="515"/>
+		<item key="DIALOG_HEIGHT" value="456"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 	</section>
 </section>
